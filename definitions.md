@@ -6,7 +6,7 @@
 |url||true|Url||
 |title||true|Text array||
 |source||true|Source||
-|scrapeId||true|ScrapeId||
+|importId||true|ScrapeId||
 |location||false|Location||
 
 
@@ -19,7 +19,7 @@
 |startBid||false|Price||
 |minimumBid||false|Price||
 |source||true|Source||
-|scrapeId||true|ScrapeId||
+|importId||true|ScrapeId||
 |foreignId||true|ForeignId||
 |price||false|Price||
 |location||false|Location||
@@ -39,7 +39,7 @@
 |Name|Description|Required|Schema|Default|
 |----|----|----|----|----|
 |source||true|Source||
-|scrapeId||true|ScrapeId||
+|importId||true|ScrapeId||
 |foreignId||true|ForeignId||
 |price||false|Price||
 |location||false|Location||
